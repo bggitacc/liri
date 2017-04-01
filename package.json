@@ -1,0 +1,21 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "week 10 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brian gumtz",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^2.1.2",
+    "imdb-api": "^2.2.1",
+    "omdb": "^0.7.0",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twit": "^2.2.5",
+    "twitter": "^1.7.0"
+  }
+}
